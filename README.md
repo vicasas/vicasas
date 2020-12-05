@@ -1,4 +1,4 @@
-### Hi ✌
+### Hi 🖐
 
 My name is Victor. I am a Senior Software Engineer with more than 5 years of experience in the development of computer solutions. In my last years working in cells with agile methodology and helping to make the Digital Transformation of companies a reality.
 
@@ -8,7 +8,7 @@ My name is Victor. I am a Senior Software Engineer with more than 5 years of exp
 - 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on JavaScript or other technologies.
 - 💬 Ask me about JavaScript, React, HTML, CSS, C#, .NET, Cloud, Infrastructure, Security, and much more!.
-- 📫 How to reach me: [Twitter](https://twitter.com).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vicasas/).
 
 ![](https://komarev.com/ghpvc/?username=vicasas&color=blueviolet)
 
